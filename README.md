@@ -1,4 +1,4 @@
-# solubility-
+# solubility-ml-project
 ## Overview
 The dataset consists of molecular descriptors calculated from chemical structures, with aqueous solubility (log mol/L) as the target variable. Two regression models were implemented and evaluated:
 - Linear Regression
